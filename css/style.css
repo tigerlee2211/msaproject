@@ -1,0 +1,44 @@
+html { 
+    background: url("https://upload.wikimedia.org/wikipedia/commons/2/23/Screenshot_from_IMAX%C2%AE_3D_movie_Hidden_Universe_showing_the_Helix_Nebula_in_infrared.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    color:#cea0b9;
+    background-color: transparent;
+}
+
+h1#app-name {
+    font-size:84px;
+   font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+     font-style: normal;
+     font-weight: bold;
+}
+h1#headone {
+    font-size:84px;
+   font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+     font-style: normal;
+     font-weight: bold;
+         color:#b29c9c;
+}
+
+h2#page-header {
+    padding-top:30px;
+    padding-bottom:30px;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+}
+
+body #page-container {
+    margin-top: 150px;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+}
+
+.btn-wrapper {
+    padding: 20px 0;
+}
+
